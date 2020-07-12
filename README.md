@@ -2,7 +2,7 @@
 
 Myself Hardeep Kumar. I usually use wrench1815 as my alias on Internet.
 
-I'm a Programmer, Web Dev, CSE Student and Blogger.
+I'm a Programmer, CSE Student and Blogger.
 
 I write on [Infoaddaz](https://infoaddaz.com) and [Medium](https://medium.com/@hardeepkumar1815)
 
