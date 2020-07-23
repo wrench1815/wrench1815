@@ -2,10 +2,13 @@
 
 Myself Hardeep Kumar. I usually use wrench1815 as my alias on Internet.
 
+I'm an Introvert.
+
 I'm a Programmer, CSE Student and Blogger.
 
 I write on [Infoaddaz](https://infoaddaz.com) and [Medium](https://medium.com/@hardeepkumar1815)
 
+🌱 I’m currently learning: Python, C#, JS
 
 <!--
 **wrench1815/wrench1815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
