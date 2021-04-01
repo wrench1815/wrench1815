@@ -1,12 +1,10 @@
 ### Hi there 👋 Welcome to my GitHub Profile :octocat:
 
-Myself Hardeep Kumar. I usually use wrench1815 as my alias on Internet.
-
 I'm an Introvert.
 
 I'm a Programmer, CSE Student.
 
-🌱 I’m currently learning: Python, C#, JS
+🌱 Currently learning: Python, C#, JS
 
 Connect with me
 
