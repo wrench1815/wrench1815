@@ -1,12 +1,12 @@
 ### Hi there 👋 Welcome to my GitHub Profile :octocat:
 
-I'm an Introvert.
+🔭 I Develop Full Stack, APIs and Nuxt.
 
-I'm a Programmer, CSE Student.
-
-🌱 Currently learning: Python, C#, JS
+🌱 Technologies is use: Python, JS, Nuxt/Vue, Django, Django Rest Framework.
 
 Connect with me
+
+Website: [hardeepkumar.in](https://hardeepkumar.in)
 
 Twitter: Follow [@wrench1815](https://twitter.com/wrench1815)
 
