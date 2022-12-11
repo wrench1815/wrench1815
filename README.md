@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there 👋. I'm hardeep Kumar, A Web Developer.<br>I work with Django, Djnago REST Framework, FastAPI, Vue JS and Nuxt JS.<br>
 
-🔭 I’m currently working on my Portfolio and Genshin Builds<br>🌱 I’m currently learning TypeScript
+🔭 I’m currently working on my Portfolio<br>🌱 I’m currently learning TypeScript
 
 
 ## 🌐 Socials:
